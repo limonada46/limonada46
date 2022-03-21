@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @limonada46
-- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on a job
 - 📫 How to reach me: wilasalq@gmail.com
